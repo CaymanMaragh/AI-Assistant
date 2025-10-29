@@ -191,3 +191,8 @@ typing_extensions==4.15.0
 tzdata==2025.2
 urllib3==2.5.0
 wikipedia==1.4.0
+openai==1.57.4
+mss==9.0.2
+pytesseract==0.3.13
+python-dotenv==1.0.1
+keyboard==0.13.5

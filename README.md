@@ -135,7 +135,7 @@ AI-Assistant/
 ├── requirements.txt    # Python dependencies
 ├── .env                # Environment variables (API keys)
 ├── .gitignore         # Git ignore rules
-└── screenshots/        # Saved screenshots directory
+└── screenshots/        # Saved screenshots directory (created automatically)
 ```
 
 ## Key Dependencies
